@@ -1,0 +1,14 @@
+{{company}},
+
+I love to program! The feeling of solving a programming issue that has kept you up until 2 in the morning is one of the greatest feelings in the world. I am especially enamored with android programming. I spend a lot of my free time coding and learning about android (as well as python/django, good Object Oriented and software design practices). 
+
+In my current position as a Software Test Engineer, I have obtained a good understanding of agile software development practices. I also realize the value (and avoiding possible loss of profit and customer satisfaction) of having highly tested software. 
+
+My love of android programming coupled with my automated testing experience, are the two main reasons that I feel that I am a good fit for this job.
+
+https://github.com/crazyBrowes
+https://twitter.com/crazy_browes
+
+Thanks,
+
+Andre Perkins
