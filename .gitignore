@@ -1,0 +1,4 @@
+#.gitignore for the cover-letter project
+templates/
+*~
+createdCLetters/
